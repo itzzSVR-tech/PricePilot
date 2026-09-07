@@ -45,8 +45,8 @@ Before you begin, ensure you have:
 ### 1. Clone and Install
 
 ```bash
-git clone https://github.com/piyush-eon/smart-product-price-tracker.git
-cd smart-product-price-tracker
+git clone https://github.com/itzzSVR-tech/PricePilot.git
+cd PricePilot
 npm install
 ```
 
